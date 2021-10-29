@@ -22,7 +22,7 @@ li {
   list-style: none;
   border-radius: 5px;
   margin-bottom: 15px;
-  background-color: dimgray;
+  background-color: antiquewhite;
   padding: 10px 0;
   box-shadow: 5px 5px 5px rgb(50, 50, 50, 0.5);
 }
@@ -30,9 +30,9 @@ li {
 
 li h2,
 li p {
-  background-color: dimgray;
+  background-color: antiquewhite;
   font-size: large;
-  color: darkkhaki;
+  color: rgb(190, 109, 2);
   line-height: 40px;
 
   /* Display the numbers/bullets of ul/ol */
