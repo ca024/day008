@@ -24,6 +24,7 @@ li {
   margin-bottom: 15px;
   background-color: dimgray;
   padding: 10px 0;
+  box-shadow: 5px 5px 5px rgb(50, 50, 50, 0.5);
 }
 /* End of noted code*/
 
