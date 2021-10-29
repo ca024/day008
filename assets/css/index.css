@@ -1,0 +1,14 @@
+img {
+  width: 12%;
+  margin-bottom: 20px;
+}
+
+#todays-challenge {
+  margin-top: 50px;
+  font-size: 40px;
+}
+
+#todays-challenge:hover {
+  /* Transform the element by scaling the size*/
+  transform: scale(1.1, 1.1);
+}
